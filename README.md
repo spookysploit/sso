@@ -39,9 +39,9 @@ Service will be avaliable at:\
 localhost:4444
 
 Available functions:\
-Register -> Register new Users
-![image](https://github.com/user-attachments/assets/3d9cd1aa-3eee-4367-a2b8-84d15a910aeb)
-Login -> Login to application using email and password
-![image](https://github.com/user-attachments/assets/2a27e3e2-f66e-4dc0-a1d7-6bfbe3f7a1fd)
-IsAdmin -> Check whether user is admin
+Register -> Register new Users\
+![image](https://github.com/user-attachments/assets/3d9cd1aa-3eee-4367-a2b8-84d15a910aeb)\
+Login -> Login to application using email and password\
+![image](https://github.com/user-attachments/assets/2a27e3e2-f66e-4dc0-a1d7-6bfbe3f7a1fd)\
+IsAdmin -> Check whether user is admin\
 ![image](https://github.com/user-attachments/assets/1a375d49-95a7-4177-8077-f1888e5961ae)
